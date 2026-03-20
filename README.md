@@ -1,16 +1,33 @@
-# React + Vite
+# Flag Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive game where players guess country flags.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Multiple-choice questions
+- Score tracking system
+- Instant feedback on answers
+- Dynamic interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies
+- HTML
+- CSS
+- JAVASCRIPT
+- REACT.JS
+- VUE
 
-## React Compiler
+## 🎯 Purpose
+This project aims to improve:
+- Data handling
+- User interaction
+- Quiz/game logic development
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="2559" height="1371" alt="Screenshot 2026-03-20 at 17-55-59 Flag-Game" src="https://github.com/user-attachments/assets/2d83cdae-9707-4d25-a95d-cd88f82838d3" />
+
+URL: https://if-void7.github.io/flag-game/
+
+
+## 📌 Status
+✔️ Completed 
